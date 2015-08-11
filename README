@@ -1,0 +1,29 @@
+-------------------------------------------------------[ OLD YAHTZEE README ]--
+
+Author:  Taylor Durrer
+Date:    August 10, 2015
+
+-------------------------------------------------------[     DESCRIPTION    ]--
+
+I made this Yahtzee game as my final project for AP Computer Science in 10th
+grade.  The instructions for the assignment were to "make a game"; we weren't 
+given any other tools or instructions.  This meant every student had to plan,
+desgin, and program their own games before the school year ended in just a few
+weeks.  The teacher said that it was more important for the game to work than 
+for it to be coded well.  Because I was worried about the time constraint, I
+stuck to what I was more comfortable with and went for simplicity.  This means 
+that the game was coded poorly, however I finished it on time.  If you would 
+like to see my updated version of this game where I used what I learned at 
+school to rewrite it with immense improvements, please see my Improved_Yahtzee.
+
+-------------------------------------------------------[     COMPILATION    ]--
+
+To compile this program, enter the following on the command line within the 
+directory containing the source files and Makefile:
+
+	$ make
+
+To run this program after successfully compiling, enter the following on the
+command line within the directory containing the executable.
+
+	$ ./YahtzeeGame
