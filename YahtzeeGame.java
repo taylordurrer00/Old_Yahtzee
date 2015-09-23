@@ -981,7 +981,7 @@ class Dice {
 	public void setImage(int number, boolean held) {
 		if (!held) {
 			if (number == 1)
-				currentDice.setIcon(new ImageIcon("OneDice.gif"));
+				currentDice.setIcon(new ImageIcon("OneDice.GIF"));
 			if (number == 2)
 				currentDice.setIcon(new ImageIcon("TwoDice.gif"));
 			if (number == 3)
